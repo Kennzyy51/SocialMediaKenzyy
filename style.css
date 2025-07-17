@@ -1,0 +1,26 @@
+body {
+  background-image: url('/Kenzyy.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+.button1 {
+  background: #00FF00;
+  border: 2px solid #000000;
+}
+.button2 {
+  background: #FF00FF;
+  border: 2px solid #000000;
+}
+.button3 {
+  background: #000000;
+  border: 2px solid ;
+}
+h1 {
+  color: black;
+  filter: alpha(opacity=hyphens: );
+}
+.Developer {
+  background: green;
+}
